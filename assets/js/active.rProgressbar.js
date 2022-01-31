@@ -3,20 +3,20 @@
 
     $('.html').rProgressbar({
         percentage: 80,
-        fillBackgroundColor: '#fc0841'
+        fillBackgroundColor: '#efea2e'
     });
     $('.css').rProgressbar({
         percentage: 90,
-        fillBackgroundColor: '#fc0841'
+        fillBackgroundColor: '#efea2e'
     });
 
     $('.php').rProgressbar({
         percentage: 75,
-        fillBackgroundColor: '#fc0841'
+        fillBackgroundColor: '#efea2e'
     });
     $('.java').rProgressbar({
         percentage: 75,
-        fillBackgroundColor: '#fc0841'
+        fillBackgroundColor: '#efea2e'
     });
 
     $(".progress-i").each(function() {
